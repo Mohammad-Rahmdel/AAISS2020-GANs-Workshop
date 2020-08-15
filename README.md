@@ -5,7 +5,7 @@
 
 [AAISS2020](http://aaiss.ceit.aut.ac.ir/)
 
-[GANs Workshop](http://aaiss.ceit.aut.ac.ir/)
+[GANs Workshop](http://aaiss.ceit.aut.ac.ir/teachers/6)
 
 
 ### References
